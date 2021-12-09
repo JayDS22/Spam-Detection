@@ -1,6 +1,10 @@
 # Spam-Detection
 Build an End-to-End Data Science project to predict the Spam &amp; Legit emails
 
+## Heroku App
+
+Check it out: https://spam-check.herokuapp.com
+
 # Purpose : To predict, analyse and provide the counter measures to prevent the Spamming. 
          - Build a Model to predict the Spam Messages' likely to be churned using Data Science, NLP and Machine Learning Applications.
 
@@ -27,4 +31,5 @@ The data used to build a Customer Churn Prediction Model, consists of data relat
 [<img target="_blank" src="https://forthebadge.com/images/badges/made-with-python.svg">](https://www.python.org/)
 
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org)
+[<img target="_blank" src="https://github.com/GauravK1997/E-commerce-Shipping/blob/master/images/heroku%20logo.png" width=190>](https://www.heroku.com/)
 
