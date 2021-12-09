@@ -1,7 +1,7 @@
 # Spam-Detection
 Build an End-to-End Data Science project to predict the Spam &amp; Legit emails
 
-# Purpose #: To predict, analyse and provide the counter measures to prevent the Spamming. 
+# Purpose : To predict, analyse and provide the counter measures to prevent the Spamming. 
          - Build a Model to predict the Spam Messages' likely to be churned using Data Science, NLP and Machine Learning Applications.
 
 # Use: 
